@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ServiceUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>EBS:Gp2-IO-Read</OperationName>
+		<UsageType>USE2-EBS:VolumeIOUsage.gp2</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>245729</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>CreateVolume-Gp2</OperationName>
+		<UsageType>USE2-EBS:VolumeUsage.gp2</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>9887372629</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>RunInstances</OperationName>
+		<UsageType>USE2-DataTransfer-In-Bytes</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>22084429</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>EBS:Gp2-IO-Write</OperationName>
+		<UsageType>USE2-EBS:VolumeIOUsage.gp2</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>233240</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>RunInstances:0002</OperationName>
+		<UsageType>USE2-BoxUsage:t2.micro</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>2</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>RunInstances</OperationName>
+		<UsageType>USE2-C3DataTransfer-Out-Bytes</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>6223</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>RunInstances</OperationName>
+		<UsageType>USE2-DataTransfer-Out-Bytes</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>4918347</UsageValue>
+	</OperationUsage>
+	<OperationUsage>
+		<ServiceName>AmazonEC2</ServiceName>
+		<OperationName>RunInstances</OperationName>
+		<UsageType>USE2-C3DataTransfer-In-Bytes</UsageType>
+		<Resource></Resource>
+		<StartTime>11/15/17 10:00:00</StartTime>
+		<EndTime>11/15/17 11:00:00</EndTime>
+		<UsageValue>12099</UsageValue>
+	</OperationUsage>
+</ServiceUsage>
